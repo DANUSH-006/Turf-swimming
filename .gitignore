@@ -1,0 +1,18 @@
+# Tomcat server and generated files
+TurfBooking/apache-tomcat-10.1.59/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+*.txt
+
+# IDE files
+.vscode/
+.project
+.classpath
+.settings/
+
+# Environment and secrets
+.env
